@@ -1,0 +1,11 @@
+D:\vstest\demo03\demo03\bin\Debug\demo03.exe.config
+D:\vstest\demo03\demo03\bin\Debug\demo03.exe
+D:\vstest\demo03\demo03\bin\Debug\demo03.pdb
+D:\vstest\demo03\demo03\obj\Debug\ScreenSaver.csproj.AssemblyReference.cache
+D:\vstest\demo03\demo03\obj\Debug\ScreenSaver.csproj.SuggestedBindingRedirects.cache
+D:\vstest\demo03\demo03\obj\Debug\demo03.Frmwindows.resources
+D:\vstest\demo03\demo03\obj\Debug\demo03.Properties.Resources.resources
+D:\vstest\demo03\demo03\obj\Debug\ScreenSaver.csproj.GenerateResource.cache
+D:\vstest\demo03\demo03\obj\Debug\ScreenSaver.csproj.CoreCompileInputs.cache
+D:\vstest\demo03\demo03\obj\Debug\demo03.exe
+D:\vstest\demo03\demo03\obj\Debug\demo03.pdb

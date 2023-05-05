@@ -1,0 +1,14 @@
+D:\vstest\Demo05\KuwoProgressBar\bin\Debug\net6.0-windows\KuwoProgressBar.deps.json
+D:\vstest\Demo05\KuwoProgressBar\bin\Debug\net6.0-windows\KuwoProgressBar.dll
+D:\vstest\Demo05\KuwoProgressBar\bin\Debug\net6.0-windows\KuwoProgressBar.pdb
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.csproj.AssemblyReference.cache
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.UserControl1.resources
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.csproj.GenerateResource.cache
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.AssemblyInfoInputs.cache
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.AssemblyInfo.cs
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.csproj.CoreCompileInputs.cache
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.dll
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\refint\KuwoProgressBar.dll
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\KuwoProgressBar.pdb
+D:\vstest\Demo05\KuwoProgressBar\obj\Debug\net6.0-windows\ref\KuwoProgressBar.dll

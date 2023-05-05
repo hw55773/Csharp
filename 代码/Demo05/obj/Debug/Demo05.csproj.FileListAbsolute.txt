@@ -1,0 +1,16 @@
+D:\vstest\Demo05\Demo05\bin\Debug\Demo05.exe.config
+D:\vstest\Demo05\Demo05\bin\Debug\Demo05.exe
+D:\vstest\Demo05\Demo05\bin\Debug\Demo05.pdb
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.csproj.AssemblyReference.cache
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.csproj.SuggestedBindingRedirects.cache
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.Form1.resources
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.Properties.Resources.resources
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.csproj.GenerateResource.cache
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.csproj.CoreCompileInputs.cache
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.exe
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.pdb
+D:\vstest\Demo05\Demo05\bin\Debug\Interop.WMPLib.dll
+D:\vstest\Demo05\Demo05\bin\Debug\AxInterop.WMPLib.dll
+D:\vstest\Demo05\Demo05\obj\Debug\Interop.WMPLib.dll
+D:\vstest\Demo05\Demo05\obj\Debug\AxInterop.WMPLib.dll
+D:\vstest\Demo05\Demo05\obj\Debug\Demo05.csproj.ResolveComReference.cache

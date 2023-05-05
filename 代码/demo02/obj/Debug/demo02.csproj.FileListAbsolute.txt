@@ -1,0 +1,15 @@
+D:\vstest\demo02\bin\Debug\demo02.exe.config
+D:\vstest\demo02\bin\Debug\demo02.exe
+D:\vstest\demo02\bin\Debug\demo02.pdb
+D:\vstest\demo02\obj\Debug\demo02.csproj.AssemblyReference.cache
+D:\vstest\demo02\obj\Debug\demo02.csproj.SuggestedBindingRedirects.cache
+D:\vstest\demo02\obj\Debug\demo02.Properties.Resources.resources
+D:\vstest\demo02\obj\Debug\demo02.csproj.GenerateResource.cache
+D:\vstest\demo02\obj\Debug\demo02.csproj.CoreCompileInputs.cache
+D:\vstest\demo02\obj\Debug\demo02.exe
+D:\vstest\demo02\obj\Debug\demo02.pdb
+D:\vstest\demo02\obj\Debug\demo02.frmMain01.resources
+D:\vstest\demo02\obj\Debug\demo02.frmmain.resources
+D:\vstest\demo02\bin\Debug\byn\demo02.resources.dll
+D:\vstest\demo02\obj\Debug\demo02.frmMain01.byn.resources
+D:\vstest\demo02\obj\Debug\byn\demo02.resources.dll

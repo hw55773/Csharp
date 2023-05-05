@@ -1,0 +1,11 @@
+D:\vstest\Demo05\demmo07\bin\Debug\demmo07.exe.config
+D:\vstest\Demo05\demmo07\bin\Debug\demmo07.exe
+D:\vstest\Demo05\demmo07\bin\Debug\demmo07.pdb
+D:\vstest\Demo05\demmo07\obj\Debug\demmo07.csproj.AssemblyReference.cache
+D:\vstest\Demo05\demmo07\obj\Debug\demmo07.csproj.SuggestedBindingRedirects.cache
+D:\vstest\Demo05\demmo07\obj\Debug\demmo07.Form1.resources
+D:\vstest\Demo05\demmo07\obj\Debug\demmo07.Properties.Resources.resources
+D:\vstest\Demo05\demmo07\obj\Debug\demmo07.csproj.GenerateResource.cache
+D:\vstest\Demo05\demmo07\obj\Debug\demmo07.csproj.CoreCompileInputs.cache
+D:\vstest\Demo05\demmo07\obj\Debug\demmo07.exe
+D:\vstest\Demo05\demmo07\obj\Debug\demmo07.pdb

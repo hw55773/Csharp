@@ -1,0 +1,11 @@
+D:\vstest\Demo05\OpenPPM\bin\Debug\OpenPPM.exe.config
+D:\vstest\Demo05\OpenPPM\bin\Debug\OpenPPM.exe
+D:\vstest\Demo05\OpenPPM\bin\Debug\OpenPPM.pdb
+D:\vstest\Demo05\OpenPPM\obj\Debug\OpenPPM.csproj.AssemblyReference.cache
+D:\vstest\Demo05\OpenPPM\obj\Debug\OpenPPM.csproj.SuggestedBindingRedirects.cache
+D:\vstest\Demo05\OpenPPM\obj\Debug\OpenPPM.Form1.resources
+D:\vstest\Demo05\OpenPPM\obj\Debug\OpenPPM.Properties.Resources.resources
+D:\vstest\Demo05\OpenPPM\obj\Debug\OpenPPM.csproj.GenerateResource.cache
+D:\vstest\Demo05\OpenPPM\obj\Debug\OpenPPM.csproj.CoreCompileInputs.cache
+D:\vstest\Demo05\OpenPPM\obj\Debug\OpenPPM.exe
+D:\vstest\Demo05\OpenPPM\obj\Debug\OpenPPM.pdb
