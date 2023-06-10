@@ -29,6 +29,8 @@
         private void InitializeComponent()
         {
             this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.rbtnLtriangle = new System.Windows.Forms.RadioButton();
+            this.rbtArrow = new System.Windows.Forms.RadioButton();
             this.rbtnPentadram = new System.Windows.Forms.RadioButton();
             this.rbtnPolygon = new System.Windows.Forms.RadioButton();
             this.btnCancel = new System.Windows.Forms.Button();
@@ -36,8 +38,6 @@
             this.rbtnEllipse = new System.Windows.Forms.RadioButton();
             this.rbtnFreeLine = new System.Windows.Forms.RadioButton();
             this.rbtnRect = new System.Windows.Forms.RadioButton();
-            this.rbtArrow = new System.Windows.Forms.RadioButton();
-            this.rbtnLtriangle = new System.Windows.Forms.RadioButton();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -58,6 +58,28 @@
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
+            // 
+            // rbtnLtriangle
+            // 
+            this.rbtnLtriangle.AutoSize = true;
+            this.rbtnLtriangle.Location = new System.Drawing.Point(3, 172);
+            this.rbtnLtriangle.Name = "rbtnLtriangle";
+            this.rbtnLtriangle.Size = new System.Drawing.Size(103, 19);
+            this.rbtnLtriangle.TabIndex = 8;
+            this.rbtnLtriangle.TabStop = true;
+            this.rbtnLtriangle.Text = "直角三角形";
+            this.rbtnLtriangle.UseVisualStyleBackColor = true;
+            // 
+            // rbtArrow
+            // 
+            this.rbtArrow.AutoSize = true;
+            this.rbtArrow.Location = new System.Drawing.Point(3, 146);
+            this.rbtArrow.Name = "rbtArrow";
+            this.rbtArrow.Size = new System.Drawing.Size(58, 19);
+            this.rbtArrow.TabIndex = 7;
+            this.rbtArrow.TabStop = true;
+            this.rbtArrow.Text = "箭头";
+            this.rbtArrow.UseVisualStyleBackColor = true;
             // 
             // rbtnPentadram
             // 
@@ -133,28 +155,6 @@
             this.rbtnRect.TabStop = true;
             this.rbtnRect.Text = "矩形";
             this.rbtnRect.UseVisualStyleBackColor = true;
-            // 
-            // rbtArrow
-            // 
-            this.rbtArrow.AutoSize = true;
-            this.rbtArrow.Location = new System.Drawing.Point(3, 146);
-            this.rbtArrow.Name = "rbtArrow";
-            this.rbtArrow.Size = new System.Drawing.Size(58, 19);
-            this.rbtArrow.TabIndex = 7;
-            this.rbtArrow.TabStop = true;
-            this.rbtArrow.Text = "箭头";
-            this.rbtArrow.UseVisualStyleBackColor = true;
-            // 
-            // rbtnLtriangle
-            // 
-            this.rbtnLtriangle.AutoSize = true;
-            this.rbtnLtriangle.Location = new System.Drawing.Point(3, 172);
-            this.rbtnLtriangle.Name = "rbtnLtriangle";
-            this.rbtnLtriangle.Size = new System.Drawing.Size(103, 19);
-            this.rbtnLtriangle.TabIndex = 8;
-            this.rbtnLtriangle.TabStop = true;
-            this.rbtnLtriangle.Text = "直角三角形";
-            this.rbtnLtriangle.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
